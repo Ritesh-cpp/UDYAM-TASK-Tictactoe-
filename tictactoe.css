@@ -5,6 +5,8 @@ html,body{
 }
 
 p {
+    margin-top: 2%;
+background-color: #fff;
 color: rgb(17, 16, 17);
 font-size: 50px;
 text-align: center;
